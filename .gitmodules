@@ -1,0 +1,8 @@
+[submodule "freeRTOS"]
+	path = freeRTOS
+	url = ../freeRTOS.git
+	branch = main
+[submodule "zephyr"]
+	path = zephyr
+	url = ../zephyr.git
+	branch = main

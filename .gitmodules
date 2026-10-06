@@ -6,3 +6,11 @@
 	path = zephyr
 	url = ../zephyr.git
 	branch = main
+[submodule "lpc55s16-evk"]
+	path = lpc55s16-evk
+	url = ../lpc55s16-evk.git
+	branch = main
+[submodule "lpc55s69-evk"]
+	path = lpc55s69-evk
+	url = ../lpc55s69-evk.git
+	branch = main
